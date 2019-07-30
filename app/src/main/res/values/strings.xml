@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAssignment</string>
+    <string name="title">title</string>
+    <string name="created_at">creates at</string>
+    <string name="counterText">Items</string>
+
+</resources>
